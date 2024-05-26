@@ -1,0 +1,22 @@
+INSERT INTO Employee (EmployeeID, Name, Salary, Age, Gender) VALUES
+('EMP001', 'Amit Kumar', 10000, 25, 'Male'),
+('EMP002', 'Priya Sharma', 12000, 28, 'Female'),
+('EMP003', 'Rajesh Patel', 14000, 32, 'Male'),
+('EMP004', 'Sneha Singh', 13000, 27, 'Female'),
+('EMP005', 'Sanjay Gupta', 15000, 30, 'Male'),
+('EMP006', 'Anita Verma', 9000, 26, 'Female'),
+('EMP007', 'Rahul Singh', 11000, 31, 'Male'),
+('EMP008', 'Pooja Sharma', 10000, 29, 'Female'),
+('EMP009', 'Vikram Patel', 8000, 24, 'Male'),
+('EMP010', 'Divya Singh', 14000, 26, 'Female'),
+('EMP011', 'Alok Sharma', 12000, 32, 'Male'),
+('EMP012', 'Neeta Gupta', 11000, 27, 'Female'),
+('EMP013', 'Ravi Singh', 13000, 30, 'Male'),
+('EMP014', 'Neha Verma', 10000, 25, 'Female'),
+('EMP015', 'Amita Patel', 15000, 28, 'Male'),
+('EMP016', 'Suresh Singh', 9000, 31, 'Female'),
+('EMP017', 'Meena Sharma', 12000, 29, 'Male'),
+('EMP018', 'Vijay Gupta', 11000, 24, 'Female'),
+('EMP019', 'Rajat Singh', 14000, 26, 'Male'),
+('EMP020', 'Anju Verma', 13000, 30, 'Female');
+select*from employee;
